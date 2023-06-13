@@ -1,0 +1,15 @@
+C:\Users\legion\source\repos\TugasMinggu6\TugasMinggu6\bin\Debug\net6.0\TugasMinggu6.exe
+C:\Users\legion\source\repos\TugasMinggu6\TugasMinggu6\bin\Debug\net6.0\TugasMinggu6.deps.json
+C:\Users\legion\source\repos\TugasMinggu6\TugasMinggu6\bin\Debug\net6.0\TugasMinggu6.runtimeconfig.json
+C:\Users\legion\source\repos\TugasMinggu6\TugasMinggu6\bin\Debug\net6.0\TugasMinggu6.dll
+C:\Users\legion\source\repos\TugasMinggu6\TugasMinggu6\bin\Debug\net6.0\TugasMinggu6.pdb
+C:\Users\legion\source\repos\TugasMinggu6\TugasMinggu6\obj\Debug\net6.0\TugasMinggu6.csproj.AssemblyReference.cache
+C:\Users\legion\source\repos\TugasMinggu6\TugasMinggu6\obj\Debug\net6.0\TugasMinggu6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\legion\source\repos\TugasMinggu6\TugasMinggu6\obj\Debug\net6.0\TugasMinggu6.AssemblyInfoInputs.cache
+C:\Users\legion\source\repos\TugasMinggu6\TugasMinggu6\obj\Debug\net6.0\TugasMinggu6.AssemblyInfo.cs
+C:\Users\legion\source\repos\TugasMinggu6\TugasMinggu6\obj\Debug\net6.0\TugasMinggu6.csproj.CoreCompileInputs.cache
+C:\Users\legion\source\repos\TugasMinggu6\TugasMinggu6\obj\Debug\net6.0\TugasMinggu6.dll
+C:\Users\legion\source\repos\TugasMinggu6\TugasMinggu6\obj\Debug\net6.0\refint\TugasMinggu6.dll
+C:\Users\legion\source\repos\TugasMinggu6\TugasMinggu6\obj\Debug\net6.0\TugasMinggu6.pdb
+C:\Users\legion\source\repos\TugasMinggu6\TugasMinggu6\obj\Debug\net6.0\TugasMinggu6.genruntimeconfig.cache
+C:\Users\legion\source\repos\TugasMinggu6\TugasMinggu6\obj\Debug\net6.0\ref\TugasMinggu6.dll
